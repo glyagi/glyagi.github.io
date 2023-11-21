@@ -16,7 +16,7 @@ h1{
  
 }
 /*heading 3*/
-h3{
+.head{
     font-family:'Roboto', sans-serif;
     font-style: bold;
     font-weight: 500;
@@ -29,6 +29,20 @@ h3{
     text-align: center;
     color: white;
 }
+#headrev{
+    font-family:'Roboto', sans-serif;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 25px;
+    border: 1px solid;
+    width: fit-content;
+    height: fit-content;
+    font-size: 20px;
+    background: black;
+    text-align: left;
+    color: white;
+}
+
 /*paragraphs and lists*/
 p, ul{
     font-family:'Josefin Sans';
